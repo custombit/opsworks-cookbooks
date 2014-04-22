@@ -7,3 +7,6 @@
 [submodule "build-essential"]
 	path = build-essential
 	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "phantomjs"]
+	path = phantomjs
+	url = git://github.com/michaelklishin/phantomjs-chef-cookbook.git
