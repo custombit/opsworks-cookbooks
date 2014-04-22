@@ -9,4 +9,4 @@
 	url = git://github.com/opscode-cookbooks/build-essential.git
 [submodule "phantomjs"]
 	path = phantomjs
-	url = git://github.com/michaelklishin/phantomjs-chef-cookbook.git
+	url = git://github.com/custombit/phantomjs-chef-cookbook.git
