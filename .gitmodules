@@ -4,9 +4,6 @@
 [submodule "ark"]
 	path = ark
 	url = git://github.com/opscode-cookbooks/ark.git
-[submodule "phantomjs"]
-	path = phantomjs
-	url = git://github.com/customink-webops/phantomjs.git
 [submodule "build-essential"]
 	path = build-essential
 	url = git://github.com/opscode-cookbooks/build-essential.git
