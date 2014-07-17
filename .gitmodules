@@ -1,15 +1,15 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
-	url = git://github.com/elasticsearch/cookbook-elasticsearch.git
+	url = https://github.com/elasticsearch/cookbook-elasticsearch.git
 [submodule "ark"]
 	path = ark
-	url = git://github.com/opscode-cookbooks/ark.git
+	url = https://github.com/opscode-cookbooks/ark.git
 [submodule "build-essential"]
 	path = build-essential
-	url = git://github.com/opscode-cookbooks/build-essential.git
+	url = https://github.com/opscode-cookbooks/build-essential.git
 [submodule "phantomjs"]
 	path = phantomjs
-	url = git://github.com/custombit/phantomjs-chef-cookbook.git
+	url = https://github.com/custombit/phantomjs-chef-cookbook.git
 [submodule "delayed_job"]
 	path = delayed_job
 	url = https://github.com/custombit/delayed-job-opsworks-cookbook.git
