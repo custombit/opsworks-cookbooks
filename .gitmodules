@@ -10,3 +10,6 @@
 [submodule "phantomjs"]
 	path = phantomjs
 	url = git://github.com/custombit/phantomjs-chef-cookbook.git
+[submodule "delayed_job"]
+	path = delayed_job
+	url = https://github.com/custombit/delayed-job-opsworks-cookbook.git
